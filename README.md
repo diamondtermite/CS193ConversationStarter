@@ -6,4 +6,6 @@ MVP scope:
   2. skip over a prompt
   3. rate prompt
 Once a working product is established:
-  add more features.
+  add filtering prompts given by topics of interest
+  add reviewed weighted prompt system(better prompts occur more often)
+  add saved prompts and account system to access the saved prompts
